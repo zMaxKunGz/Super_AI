@@ -1,0 +1,6 @@
+# Generated model outputs
+*.csv
+*.png
+*.jpg
+# Optional notebook clutter
+.ipynb_checkpoints/
